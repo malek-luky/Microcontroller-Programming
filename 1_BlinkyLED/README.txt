@@ -1,0 +1,1 @@
+Default template from SME32CubeMX with default PIN configuration

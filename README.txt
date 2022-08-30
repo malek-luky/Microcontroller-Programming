@@ -1,0 +1,1 @@
+Workspace of my projects at DTU for Microcontroller Programming. Mostly focused on understanding HAL Layer in STM32 Cube MX. Programmed for Nucleo F411RE and F446RE.
